@@ -4,4 +4,4 @@ const greet = function() {
 };
 
 // 関数を呼び出してください
-greet()
+greet();
