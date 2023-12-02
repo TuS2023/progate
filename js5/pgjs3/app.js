@@ -9,7 +9,7 @@ const animal2 = new Animal();
 class Animal {
   // コンストラクタを追加してください
   constructor() {
-    console.log("インスタンスを生成しました")
+    console.log("インスタンスを生成しました");
   }
   
 }
