@@ -13,5 +13,4 @@ print(fruits)
 
 fruits[0] = 'cherry'
 
-# インデックス番号が 0 の要素を出力してください
 print(fruits[0])
